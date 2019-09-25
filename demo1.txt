@@ -2,3 +2,5 @@ Git is a version control system.
 Git is free software.
 
 wo jia le yi hang pin yin dai ma!
+
+wo you jia le yi hang xiu gai!
