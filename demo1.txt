@@ -4,3 +4,5 @@ Git is free software.
 wo jia le yi hang pin yin dai ma!
 
 wo you jia le yi hang xiu gai!
+
+加个中文试试?
